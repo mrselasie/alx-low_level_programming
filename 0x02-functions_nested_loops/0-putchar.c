@@ -1,12 +1,13 @@
 #include "main.h"
 /**
- * main - prints _putchar*
+ * main - print _putchar
+ * is written by mrselasie
  * Return: 0
  */
 
 int main(void)
 {
-_putchar(95); /*95 is ascii for _*/
+_putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
@@ -17,3 +18,4 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
