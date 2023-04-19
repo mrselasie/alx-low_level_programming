@@ -2,7 +2,7 @@
 
 /**
  * binary_to_uint - converts a binary number to unsigned int
- * @b: string that contains the binary number
+ * @b: string containing the binary number
  *
  * Return: the converted number
  */
@@ -23,4 +23,5 @@ unsigned int binary_to_uint(const char *b)
 
 	return (dec_val);
 }
+
 
